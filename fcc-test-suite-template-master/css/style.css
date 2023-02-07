@@ -1,0 +1,18 @@
+header{text-align: center;
+position: relative;}
+h1{
+
+  margin: 5% auto;
+
+}
+iframe{
+margin: 5%;
+}
+#start{
+margin: 10% auto;
+}
+#header-img{
+width: 600px;
+border-radius: 10%;
+margin-bottom: 5%;
+}
